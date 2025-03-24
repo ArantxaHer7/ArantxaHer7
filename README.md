@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArantxaHer7
 - 👀 I'm interested in arts, music, travels and entertainment
 - 🌱 I’m currently learning data analyst course
-- 💞️ I’m looking to collaborate on ong
+- 💞️ i'm looking to collaborate on new challenges
 
 
 <!---
